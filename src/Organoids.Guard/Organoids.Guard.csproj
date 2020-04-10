@@ -2,8 +2,10 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>Organoids.Guard</PackageId>
-    <Version>1.0.0</Version>
+    <Title>Organoids.Guard</Title>
+    <Version>1.0.0-alpha</Version>
     <PackageTags>Organoids Guard Clause Assert Ensure</PackageTags>
+    <RepositoryUrl>https://github.com/organoids/guard</RepositoryUrl>
     <Authors>Organoids</Authors>
     <Description>Just a small, simple and lightweight .NET guard clause extensions library.</Description>
   </PropertyGroup>
